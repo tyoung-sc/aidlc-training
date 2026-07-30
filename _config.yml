@@ -10,10 +10,12 @@ description: >-
 # Upgrade option: switch to just-the-docs for a sidebar + search (see PUBLISHING.md).
 theme: minima
 
-# Suppress minima's auto-generated top nav. Without this, a default GitHub Pages
-# plugin gives every page a title and minima lists ALL of them in the header,
-# producing a giant run-on nav. The index page is our navigation hub instead.
-header_pages: []
+# Limit minima's top nav to a single "Home" link. NOTE: an empty list here does
+# NOT work — minima runs it through a `default` filter that treats empty as unset
+# and falls back to listing EVERY page. Pointing at just index.md keeps the header
+# to one link; the index page itself is our real navigation hub.
+header_pages:
+  - index.md
 
 # Let kramdown process Markdown INSIDE block HTML — this is what makes the
 # tables and lists inside our <details> toggles (terminology + quiz answers)
