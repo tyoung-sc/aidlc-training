@@ -10,6 +10,17 @@ description: >-
 # Upgrade option: switch to just-the-docs for a sidebar + search (see PUBLISHING.md).
 theme: minima
 
+# Suppress minima's auto-generated top nav. Without this, a default GitHub Pages
+# plugin gives every page a title and minima lists ALL of them in the header,
+# producing a giant run-on nav. The index page is our navigation hub instead.
+header_pages: []
+
+# Let kramdown process Markdown INSIDE block HTML — this is what makes the
+# tables and lists inside our <details> toggles (terminology + quiz answers)
+# render, instead of showing raw pipes.
+kramdown:
+  parse_block_html: true
+
 # Project site at https://tyoung-sc.github.io/aidlc-training/ — baseurl is the repo
 # path so theme CSS/assets resolve. Change to "" only for a custom domain or a
 # user/org root site. Page-to-page links are relative and work either way.
