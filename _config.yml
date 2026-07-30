@@ -1,0 +1,37 @@
+# GitHub Pages / Jekyll config for the AI-DLC Adoption Bootcamp site.
+# This makes the training/ folder render as a static site on GitHub Pages.
+
+title: AI-DLC Adoption Bootcamp
+description: >-
+  Get your product team productive on AWS AI-DLC (v2) — a role-based,
+  hands-on bootcamp for Developers, Product Managers, and UX Designers.
+
+# A clean, supported GitHub Pages theme. No gems to install — GitHub builds it.
+# Upgrade option: switch to just-the-docs for a sidebar + search (see PUBLISHING.md).
+theme: minima
+
+# Project site at https://tyoung-sc.github.io/aidlc-training/ — baseurl is the repo
+# path so theme CSS/assets resolve. Change to "" only for a custom domain or a
+# user/org root site. Page-to-page links are relative and work either way.
+baseurl: "/aidlc-training"
+url: "https://tyoung-sc.github.io"
+
+# Default GitHub Pages plugins we rely on:
+#  - jekyll-relative-links: rewrites in-repo .md links to .html (our cross-links)
+#  - jekyll-optional-front-matter: renders .md files that have no front matter
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Keep build/infra files out of the published site.
+exclude:
+  - PUBLISHING.md
+  - references/
+  - "*.pdf"
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
