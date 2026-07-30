@@ -1,0 +1,25 @@
+// Custom overrides for just-the-docs.
+// Trim the wide left-nav gutter on large screens and give the reading column
+// more room. just-the-docs normally lets the sidebar absorb leftover width on
+// wide viewports; these rules pin it to a sensible fixed width instead.
+
+@media (min-width: 50rem) {
+  .side-bar {
+    width: 16rem !important;
+    min-width: 16rem !important;
+  }
+  .main {
+    margin-left: 16rem !important;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 16rem !important;
+    min-width: 16rem !important;
+  }
+  .main {
+    margin-left: 16rem !important;
+    max-width: 64rem !important; // wider reading column (~1024px)
+  }
+}
