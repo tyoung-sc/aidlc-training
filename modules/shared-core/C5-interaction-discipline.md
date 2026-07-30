@@ -1,3 +1,9 @@
+---
+title: "C5 — Interaction Discipline"
+parent: Shared Core
+nav_order: 5
+---
+
 # C5 — Interaction Discipline: Gates, Modes & Never Vibe Code
 
 > **Module:** C5 · **Track:** Shared Core (all roles) · **Time:** ~75 min · **Format:** 📖 Read + 🧪 Hands-on + ✅ Graded

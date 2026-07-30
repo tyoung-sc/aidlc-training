@@ -1,3 +1,8 @@
+---
+title: Module Template (authors)
+nav_exclude: true
+---
+
 # AI-DLC Bootcamp — Modules
 
 Lesson content for the [AI-DLC Adoption Bootcamp](../aidlc-bootcamp-plan.md). Each lesson is standalone Markdown, rendered via GitHub Pages, and follows one template so learners get a predictable rhythm and authors have a checklist.

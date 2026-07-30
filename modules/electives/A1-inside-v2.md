@@ -1,3 +1,9 @@
+---
+title: "A1 — Inside v2"
+parent: Electives
+nav_order: 1
+---
+
 # A1 — Inside v2: Engine, Conductor & Agents
 
 > **Module:** A1 · **Track:** Elective (self-paced) · **Time:** ~45 min · **Format:** 📖 Read + 🎧 Watch

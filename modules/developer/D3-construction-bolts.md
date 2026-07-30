@@ -1,3 +1,9 @@
+---
+title: "D3 — Construction Bolts"
+parent: Developer
+nav_order: 3
+---
+
 # D3 — Construction Bolts, Stage by Stage
 
 > **Module:** D3 · **Track:** Developer add-on · **Time:** ~75 min · **Format:** 🧪 Hands-on

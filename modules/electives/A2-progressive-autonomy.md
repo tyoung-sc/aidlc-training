@@ -1,3 +1,9 @@
+---
+title: "A2 — Progressive Autonomy"
+parent: Electives
+nav_order: 2
+---
+
 # A2 — Rules, Sensors & Progressive Autonomy
 
 > **Module:** A2 · **Track:** Elective (self-paced) · **Time:** ~45 min · **Format:** 📖 Read

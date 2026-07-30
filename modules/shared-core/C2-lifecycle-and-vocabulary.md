@@ -1,3 +1,9 @@
+---
+title: "C2 — Lifecycle & Vocabulary"
+parent: Shared Core
+nav_order: 2
+---
+
 # C2 — The Lifecycle & the Vocabulary Bridge
 
 > **Module:** C2 · **Track:** Shared Core (all roles) · **Time:** ~45 min · **Format:** 📖 Read + ✅ Quiz

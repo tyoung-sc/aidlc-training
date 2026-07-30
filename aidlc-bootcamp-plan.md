@@ -1,3 +1,8 @@
+---
+title: Program Plan
+nav_order: 2
+---
+
 # AI-DLC Adoption Bootcamp — Program Plan & Curriculum Outline
 
 **Version:** Draft 0.2 · **Owner:** Trevor Young · **Date:** 2026-07-27

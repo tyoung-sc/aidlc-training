@@ -1,3 +1,8 @@
+---
+title: "Capstone — Workshop Run"
+nav_order: 7
+---
+
 # X1 — Capstone: A Real Workshop-Mode Run
 
 > **Module:** X1 · **Track:** Capstone (all roles, mixed teams) · **Time:** ~2.5 h · **Format:** 🧪 Hands-on (assessed)

@@ -1,3 +1,9 @@
+---
+title: "U1 — Stories as Contracts"
+parent: UX Designer
+nav_order: 1
+---
+
 # U1 — Stories, Personas & Acceptance Criteria as Contracts
 
 > **Module:** U1 · **Track:** UX Designer add-on · **Time:** ~60 min · **Format:** 📖 Read + 🧪 Hands-on

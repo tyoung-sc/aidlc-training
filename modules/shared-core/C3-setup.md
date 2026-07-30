@@ -1,3 +1,9 @@
+---
+title: "C3 — Setup & First /aidlc"
+parent: Shared Core
+nav_order: 3
+---
+
 # C3 — Setup & Your First `/aidlc`
 
 > **Module:** C3 · **Track:** Shared Core (all roles) · **Time:** ~60 min · **Format:** 🧪 Hands-on

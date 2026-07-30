@@ -1,3 +1,9 @@
+---
+title: "P1 — Framing the Intent"
+parent: Product Manager
+nav_order: 1
+---
+
 # P1 — Framing the Intent & Inception Inputs
 
 > **Module:** P1 · **Track:** Product Manager add-on · **Time:** ~75 min · **Format:** 📖 Read + 🧪 Hands-on

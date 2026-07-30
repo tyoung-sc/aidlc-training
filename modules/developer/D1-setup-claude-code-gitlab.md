@@ -1,3 +1,9 @@
+---
+title: "D1 — Setup: Claude Code + Git"
+parent: Developer
+nav_order: 1
+---
+
 # D1 — Setup: Claude Code + Git (and the Harness Landscape)
 
 > **Module:** D1 · **Track:** Developer add-on · **Time:** ~75 min · **Format:** 🧪 Hands-on

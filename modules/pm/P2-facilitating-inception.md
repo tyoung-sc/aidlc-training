@@ -1,3 +1,9 @@
+---
+title: "P2 — Facilitating Inception"
+parent: Product Manager
+nav_order: 2
+---
+
 # P2 — Facilitating Workshop-Mode Inception
 
 > **Module:** P2 · **Track:** Product Manager add-on · **Time:** ~60 min · **Format:** 🎧 Watch + 🧪 Hands-on

@@ -1,3 +1,9 @@
+---
+title: "C4 — Scopes, Depth & Inputs"
+parent: Shared Core
+nav_order: 4
+---
+
 # C4 — Scopes, Depth & Inputs That Work
 
 > **Module:** C4 · **Track:** Shared Core (all roles) · **Time:** ~75 min · **Format:** 📖 Read + 🧪 Hands-on

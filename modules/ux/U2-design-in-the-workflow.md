@@ -1,3 +1,9 @@
+---
+title: "U2 — Design in the Workflow"
+parent: UX Designer
+nav_order: 2
+---
+
 # U2 — Bringing Design into the Workflow
 
 > **Module:** U2 · **Track:** UX Designer add-on · **Time:** ~75 min · **Format:** 🎧 Watch + 🧪 Hands-on

@@ -1,3 +1,9 @@
+---
+title: "D4 — Build, Test & Control Loop"
+parent: Developer
+nav_order: 4
+---
+
 # D4 — Build, Test & the Control Loop
 
 > **Module:** D4 · **Track:** Developer add-on · **Time:** ~60 min · **Format:** 📖 Read + 🧪 Hands-on + ✅ Graded

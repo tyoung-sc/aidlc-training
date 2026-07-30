@@ -1,6 +1,6 @@
 ---
-layout: page
-title: AI-DLC Adoption Bootcamp
+title: Home
+nav_order: 1
 ---
 
 # AI-DLC Adoption Bootcamp

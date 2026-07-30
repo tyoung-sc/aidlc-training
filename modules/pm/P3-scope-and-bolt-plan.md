@@ -1,3 +1,9 @@
+---
+title: "P3 — Scope & Bolt Plan"
+parent: Product Manager
+nav_order: 3
+---
+
 # P3 — Scope Judgment & the Bolt Plan
 
 > **Module:** P3 · **Track:** Product Manager add-on · **Time:** ~45 min · **Format:** 📖 Read + ✅ Quiz

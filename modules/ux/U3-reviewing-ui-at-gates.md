@@ -1,3 +1,9 @@
+---
+title: "U3 — Reviewing UI at the Gates"
+parent: UX Designer
+nav_order: 3
+---
+
 # U3 — Reviewing Generated UI at the Gates
 
 > **Module:** U3 · **Track:** UX Designer add-on · **Time:** ~45 min · **Format:** 🧪 Hands-on + ✅ Graded

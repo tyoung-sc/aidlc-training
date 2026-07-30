@@ -1,3 +1,9 @@
+---
+title: "D2 — Knowledge & Rules"
+parent: Developer
+nav_order: 2
+---
+
 # D2 — Team Knowledge & Rules
 
 > **Module:** D2 · **Track:** Developer add-on · **Time:** ~60 min · **Format:** 📖 Read + 🧪 Hands-on

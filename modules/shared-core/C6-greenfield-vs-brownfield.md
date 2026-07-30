@@ -1,3 +1,9 @@
+---
+title: "C6 — Greenfield vs. Brownfield"
+parent: Shared Core
+nav_order: 6
+---
+
 # C6 — Greenfield vs. Brownfield: Choosing Your Path
 
 > **Module:** C6 · **Track:** Shared Core (all roles) · **Time:** ~30 min · **Format:** 📖 Read

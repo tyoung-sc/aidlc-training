@@ -1,3 +1,9 @@
+---
+title: "C1 — Why AI-DLC"
+parent: Shared Core
+nav_order: 1
+---
+
 <!--
 LESSON TEMPLATE (all modules follow this shape):
   1. Front matter block: module id, track, time, format, prerequisites
